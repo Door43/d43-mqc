@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mqc:home|Door43 (mqc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mqc|d43-mqc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mqc/archive/master.zip|d43-mqc.zip]]
+
+**Recent Changes**
+{{changes>ns = mqc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mqc|Ethnologue data]]
+
